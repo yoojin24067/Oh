@@ -1,3 +1,4 @@
 i'm a new text file.
+I'm writing a good words.
 I'm test2
 second test
