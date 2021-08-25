@@ -1,1 +1,2 @@
 I want to make a new branch. - test2
+I did checkout from master to issue1. - test2
